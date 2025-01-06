@@ -4,6 +4,7 @@ Ride IT is a modern ride-sharing app that provides a seamless and user-friendly 
 navigation, visually engaging interfaces, and a streamlined user journey. Key functionalities include car rentals, ride booking, and easy payment integrations, ensuring a hassle-free 
 mobility experience.
 
+
 Features👋
 
 User-Friendly Interface: A clean and intuitive design for effortless navigation.
@@ -11,10 +12,12 @@ Ride Booking: Quickly book a ride with a few taps.
 Car Rental Service: Browse and rent cars for personal or business needs.
 Real-Time Updates: Stay informed with ride status and location tracking.
 
+
 Design Highlights🎨
 
 Wireframes & Prototypes: Initial drafts and interactive models for usability testing.
 UI/UX Concepts: Modern design principles emphasizing clarity and accessibility.
+
 
 Goal🚩
 
