@@ -1,8 +1,9 @@
 Project Overview🚀
 
-	Ride IT is a modern ride-sharing app that provides a seamless and user-friendly experience for individuals seeking convenient transportation solutions. The app features intuitive 
-	navigation, visually engaging interfaces, and a streamlined user journey. Key functionalities include car rentals, ride booking, and easy payment integrations, ensuring a hassle-free 
-	mobility experience.
+	Ride IT is a modern ride-sharing app that provides a seamless and user-friendly experience for individuals seeking convenient
+ 	transportation solutions. The app features intuitive navigation, visually engaging interfaces, and a streamlined user journey.
+  	Key functionalities include car rentals, ride booking, and easy payment integrations, ensuring hassle-free mobility
+   	experience.
 
 
 
@@ -27,5 +28,5 @@ Design Highlights🎨
 
 Goal🚩
 
-	The goal of Ride IT is to create a ride-sharing platform that is both aesthetically pleasing and highly functional, ensuring users have an enjoyable and efficient transportation 
-	experience.
+	The goal of Ride IT is to create a ride-sharing platform that is both aesthetically pleasing and highly functional, ensuring
+ 	users have an enjoyable and efficient transportation experience.
