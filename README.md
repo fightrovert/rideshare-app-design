@@ -9,11 +9,8 @@ mobility experience.
 Features👋
 
 User-Friendly Interface: A clean and intuitive design for effortless navigation.
-
 Ride Booking: Quickly book a ride with a few taps.
-
 Car Rental Service: Browse and rent cars for personal or business needs.
-
 Real-Time Updates: Stay informed with ride status and location tracking.
 
 
