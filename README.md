@@ -44,8 +44,13 @@ Explore the mobile interface designs for Ride IT.
 
 <p align="center">
   <img src="Screens/Screen%207.png" width="220">
+
+
   <img src="Screens/Screen%208.png" width="220">
 </p>
 
-	The goal of Ride IT is to create a ride-sharing platform that is both aesthetically pleasing and highly functional, ensuring
- 	users have an enjoyable and efficient transportation experience.
+	
+
+## Figma Design
+
+https://www.figma.com/design/c58IECXUEXMbVdtRC6yXCc/Faisal-Mahmod?node-id=20-2&t=dRXgIlHMgrlEAOSb-1
